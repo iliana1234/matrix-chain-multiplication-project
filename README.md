@@ -9,6 +9,7 @@ It processes matrices from user input or .txt files and computes the result, opt
 - Shows the **optimal parenthesization** for minimum multiplication cost.
 - Shows **split points** and the **solution reconstruction**.
 - Option to save matrix inputs to a .txt file for later use.
+- Handles invalid input and file errors.
 
 ## Installation
 1. Clone the repository:
